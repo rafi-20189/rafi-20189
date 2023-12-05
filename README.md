@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Rayahn Uddin Rafi
 #### APP Developer
-![APP Developer](https://scontent.fcgp3-2.fna.fbcdn.net/v/t39.30808-6/380364108_122094149996053566_6480442844742712838_n.png?_nc_cat=111&ccb=1-7&_nc_sid=52f669&_nc_ohc=vfJcI88CJXsAX8oZdIQ&_nc_ht=scontent.fcgp3-2.fna&oh=00_AfBKOhP1G2yuB9YErZ6OUT5Gp9Ok0ROJJ2uBaCD9fqh6Ig&oe=6513CCD1)
 
 I am an experienced app developer proficient in Java, XML, Firebase, PHP, and MySQL. With a strong foundation in these technologies, I create robust and scalable mobile and web applications that deliver exceptional user experiences and seamless data management. My skills in Java and XML enable me to craft efficient Android apps, while my expertise in Firebase ensures real-time data synchronization and authentication. Additionally, my proficiency in PHP and MySQL allows me to build dynamic and database-driven web applications. Let's collaborate to bring your app ideas to life!!
 
